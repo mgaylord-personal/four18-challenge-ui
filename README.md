@@ -6,18 +6,18 @@ While I could modify an Angular sample app using Kendo UI to build a user interf
 1. Azure B2C identity provider with MSAL client
 2. Progressive web app / responsive design
 3. Material Design for Angular
-4. Multiple libraries
-a. shell application
-b. common library
-c. Six feature libraries
-5. Multiple layers of abstraction
-a. HTML template
-b. Components
-c. Service Facades
-d. Service providers (e.g. singleton data, http services)
-6. Extensive use of RxJs
-7. Built as a container in Azure DevOps
-8. Deployed as a container in Azure Kubernetes
+4. Multiple libraries  
+a. shell application  
+b. common library  
+c. Six feature libraries  
+5. Multiple layers of abstraction  
+a. HTML template  
+b. Components  
+c. Service Facades  
+d. Service providers (e.g. singleton data, http services)  
+6. Extensive use of RxJs  
+7. Built as a container in Azure DevOps  
+8. Deployed as a container in Azure Kubernetes  
 
 ## View the screen shots in this directory
 1. dashboard.png
